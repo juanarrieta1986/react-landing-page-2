@@ -20,10 +20,6 @@ import { Footer } from "./component/footer.js";
 	HomeNav: PropType.function
 };*/
 
-const cardPos = {
-	position: "relative"
-};
-
 //render your react application
 ReactDOM.render(
 	<div>
